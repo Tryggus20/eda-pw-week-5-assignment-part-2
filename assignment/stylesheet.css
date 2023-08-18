@@ -1,13 +1,17 @@
-header {
+.block {
     background-color: darkslategray;
     color: white; 
     text-align: center;}
-main {
+.substance{
     background-color: lightgrey;
+}
+main {
     padding: 1em;
 }
 body{
     margin: 0;
+}
+.background {
     background-image: url("record.png");
     background-repeat: repeat;
 }
